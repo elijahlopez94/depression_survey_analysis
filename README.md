@@ -1,10 +1,10 @@
 ![alt text](path_to_banner_image)
-# Title
+# Depression Survey Analysis
 Author: Elijah Lopez
 
 
 ## Overview
-
+This is currently a work in progress. To follow along, see my [notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/eda.ipynb)
 
 
 ## Business Problem
