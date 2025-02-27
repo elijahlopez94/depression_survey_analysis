@@ -39,6 +39,8 @@ This is currently a work in progress. To follow along, see my [notebook](https:/
 
 
 ## Conclusions
+This survey is based on individual self-reporting and does not include any medical data related to depression diagnoses. While the survey falls short of offering clincial information, it is still helpful to consider risk factors for depression so that medical professionals can make accurate diagnoses and tailored recommendations for holistic care. Understanding the habits and stresses individuals face is only part of the solution and more research can be conducted in clincial setting to better understand contributing factors to mental wellness and depression.
+
 This analysis leads to three recommendations for 
 
 1. 
