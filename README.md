@@ -1,4 +1,4 @@
-![alt text](path_to_banner_image)
+![](images/banner.png)
 # Depression Survey Analysis
 Author: Elijah Lopez
 
