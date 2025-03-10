@@ -47,22 +47,22 @@ This analysis shows that there are statistically significant differences in many
 * Increased amounts of time working/studying 
 * Increased financial stress
 
----------------------------------------------------------------------------
-| `Risk Factor`             | `At Risk` (Avg)      | `Not at Risk` (Avg)  |
-| ------------------------- | -------------------- | -------------------- |
-| Age                       | 26                   | 42                   |
-| Academic Pressure         | 3.6                  | 2.3                  |
-| Work Pressure             | 3.9                  | 2.9                  |
-| Study Satisfaction        | 2.7                  | 3.5                  |
-| Job Satisfaction          | 2.3                  | 3.1                  |
-| Work/Study Hours          | 7.3                  | 5.8                  |
-| Financial Stress          | 3.5                  | 2.9                  |
-| Occupation                | Student              | Working Professional |
-| Sleep Duration            | < 5 Hours            | 7-8 Hours            |
-| Dietary Habits            | Unhealthy            | Healthy              |
-| Degree                    | Class 12             | Class 12             |
-| Prev. Thoughts of Suicide | Yes                  | No                   |
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+| `Risk Factor`                       | `At Risk` (Avg)      | `Not at Risk` (Avg)  |
+| ----------------------------------- | -------------------- | -------------------- |
+| Age                                 | 26                   | 42                   |
+| Academic Pressure (out of 5)        | 3.6                  | 2.3                  |
+| Work Pressure (out of 5)            | 3.9                  | 2.9                  |
+| Study Satisfaction (out of 5)       | 2.7                  | 3.5                  |
+| Job Satisfaction (out of 5)         | 2.3                  | 3.1                  |
+| Work/Study Hours                    | 7.3                  | 5.8                  |
+| Financial Stress (out of 5)         | 3.5                  | 2.9                  |
+| Occupation                          | Student              | Working Professional |
+| Sleep Duration                      | < 5 Hours            | 7-8 Hours            |
+| Dietary Habits                      | Unhealthy            | Healthy              |
+| Degree                              | Class 12             | Class 12             |
+| Prev. Thoughts of Suicide           | Yes                  | No                   |
+------------------------------------------------------------------------------------
 
 
 By evaluating the coefficients of our Logistic Regression model we were able to identify which features contribute most to depression risk and their relationship was positively or negatively associated.
@@ -76,7 +76,7 @@ Final model performance for `Logistic Regression` was, as a percentage:
 * F1: 96
 * ROC-AUC: 98
 
-The model predictions can be seen in this confustion Matrix:
+The model predictions can be seen in this Confusion Matrix:
 
 ![](images/confusion_matrix.png)
 
@@ -107,6 +107,7 @@ Additionally, a larger survey sample may also be needed to generalize better to 
 See the full analysis:
 * [EDA Jupyter Notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/eda.ipynb)
 * [ML Jupyter Notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/ml.ipynb)
+
 
 For additional info, contact the author at:
 
