@@ -107,7 +107,7 @@ Additionally, a larger survey sample may also be needed to generalize better to 
 See the full analysis:
 * [EDA Jupyter Notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/eda.ipynb)
 * [ML Jupyter Notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/ml.ipynb)
-
+* [Tableau Dashboard](https://public.tableau.com/app/profile/elijah.lopez/viz/DepressionAnalysis_17416461787970/Dashboard1?publish=yes)
 
 For additional info, contact the author at:
 
