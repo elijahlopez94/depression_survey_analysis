@@ -3,6 +3,7 @@
 Author: Elijah Lopez
 
 
+## Overview
 Understanding risk factors for depression is of utmost importance to medical experts for diagnostic purposes. By identifying risk factors early, these experts can open communication with patients, build trust, and make informed recommendations focusing on holistic care. This analysis investigates the responses of 2,500+ adults (ages 18-60) to better understand the factors contributing to depression risk. In it, we reveal how responses between at-risk and non-risk groups differ at a significant level. Through machine modeling, we identify which factors are contributing most to depression risk and highlight strategies to promote improved mental health through lifestyle changes and with professional support.
 
 
@@ -107,7 +108,7 @@ Additionally, a larger survey sample may also be needed to generalize better to 
 See the full analysis:
 * [EDA Jupyter Notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/eda.ipynb)
 * [ML Jupyter Notebook](https://github.com/elijahlopez94/depression_survey_analysis/blob/main/ml.ipynb)
-* [Tableau Dashboard](https://public.tableau.com/app/profile/elijah.lopez/viz/DepressionAnalysis_17416461787970/Dashboard1?publish=yes)
+* [Tableau Dashboard](https://public.tableau.com/app/profile/elijah.lopez/viz/DepressionAnalysis_17416461787970/DepressionRiskFactors)
 
 For additional info, contact the author at:
 
